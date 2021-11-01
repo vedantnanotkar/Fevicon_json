@@ -2,37 +2,37 @@
  "name": "App",
  "icons": [
   {
-   "src": "\/android-icon-36x36.png",
+   "src": "https://blogger.googleusercontent.com/img/a/AVvXsEh7X7-OMYGbQeMWJTHPQHj6AW7XyCwwgt7ZnXklj29AhucjGPtixPCwxOtn4ZlVZsAEwyQvk1jsAB269ahVmTCtdiYlltPPkDXZ_loG108Sbg1JLFS1b4zYN39V7SpDCeKLvPQOcb-DTFYykcO0kDPiyPHrn4p149FdK2gEhpbW_jQlrjJ3hIjhTwuT=s36",
    "sizes": "36x36",
    "type": "image\/png",
    "density": "0.75"
   },
   {
-   "src": "\/android-icon-48x48.png",
+   "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjrOueFlKw-PPrrqmCULXy27QXtskHkCfwf-aVGuDMj6ylU2tqwX6qMTyTK5QXeirhrYr4AO4iieb9lcgv4zpEODa7vZEHfYvG0bxpTREBlFjeah4N1cmKNyxexo5wjwDVH8ppjzXltvz4zki0PUPz0onP6",
    "sizes": "48x48",
    "type": "image\/png",
    "density": "1.0"
   },
   {
-   "src": "\/android-icon-72x72.png",
+   "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiBkTXArsEdlH9QgBzoRAZWDr1LIrXVE-BU3YtubhTxt_w6rR3ndedfDHe54m7v5bd0JlhlP3oHHYdik7HCS7aw67L7ygA1nn1S2NBjcR9x2CZj3FABQQShTlXfs9pUSxRxvPcsrGEWBjeWqSQ4ZoLtBurc9HzUsXJUeKseWFdPKLvOn5S0bQb9AvVz=s72",
    "sizes": "72x72",
    "type": "image\/png",
    "density": "1.5"
   },
   {
-   "src": "\/android-icon-96x96.png",
+   "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiIOz-PAHfPTjh2BZC5wn1iI82yrHlA9Sv13-_FV5YBO4LakwwHNzVgx2kgziBte5ftmg2JFNjoR_kNuKIpHub74H0A1suQ1mVr--iCdqNGFJHXZScAbCg16lSfetN_wXBuukSZW_-J2r19cQAu7mSMZ2q602N4-z7Fe2pcgAG5_1RBy8K1QX8AtO7E=s96",
    "sizes": "96x96",
    "type": "image\/png",
    "density": "2.0"
   },
   {
-   "src": "\/android-icon-144x144.png",
+   "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhriMROQWJTLEEI-NnvqGnxtG2D4-sySuiX9ulERLttOZu1weKkbFThrXHMls9N70R875WPg4wTdVDoU7fjctVh6rho1GTZZyL7ubk4rftxE2Y2Q_9KTQIvYcJdpPfiycalPAANkHM3hugJZb2LGwsFQ5gzLM4gozMiGBcZmeWt2O7HBBjWPJsOs2mB=s144",
    "sizes": "144x144",
    "type": "image\/png",
    "density": "3.0"
   },
   {
-   "src": "\/android-icon-192x192.png",
+   "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjkpmz3tfPbW2o9lBv_vA1O8xLL5JJJSzsJvQUAZCcUQinMBdI0f3FvfK_qtFaSqGs8z8hx-E88eISgREh_WCX2G51R1ccV80xGKW5Te8P3aV8tvKFu7PrjcSnqbaqPLbxLEAS6CWTWuEfPm5BsWMITZK4uO180qtyxJlQ-DqJ-juema5UhL450vKrG=s19",
    "sizes": "192x192",
    "type": "image\/png",
    "density": "4.0"
